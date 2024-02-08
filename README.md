@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 ![Visit counter](https://komarev.com/ghpvc/?username=godaup&color=blue)
+
+
+I have been researching on Machine Learning and Data Science for several years. I have done my M. Sc. in mathematics, specifically theoretic computer science and algorithmic complexity. Currently I pursue a Ph.D. in Medical Imaging at the German Cancer Reseach Center.
+
+**Academic track:** I have [published](https://scholar.google.com/citations?user=VRcPeykAAAAJ) several journal articles and papers on national and international conferences such as MICCAI, BVM, CVPR and NeurIPS workshop. I have won multiple [awards](https://www.dkfz.de/en/imsy/awards/index.html) as a reviewer as well as participant of biomedical challenges and hackathons. I lead the subgroup of [Intelligent Systems for Surgery and Endoscopy (ISSE)](https://www.dkfz.de/en/imsy/team/index.html).
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0365--7265-%23A6CE39?logo=orcid)](https://orcid.org/0000-0002-0365-7265)
+
+**Developer track:** I am the main developer of the `mml` Python package, a soon to be open sourced library which aims to provide an easy and scalable way of deep learning on multiple image tasks. It incorporates multiple common machine learning tools, such as [pytorch](https://github.com/pytorch/pytorch), [pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning), [hydra](https://github.com/facebookresearch/hydra), [timm](https://github.com/huggingface/pytorch-image-models), [segmentation-models-pytorch](https://github.com/qubvel/segmentation_models.pytorch), [albumentations](https://github.com/albumentations-team/albumentations), [kornia](https://github.com/kornia/kornia) and many more.
+
 
 <!--
 **godaup/godaup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
