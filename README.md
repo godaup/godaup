@@ -7,7 +7,7 @@ I have been researching on Machine Learning and Data Science for several years. 
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0365--7265-%23A6CE39?logo=orcid)](https://orcid.org/0000-0002-0365-7265)
 
-**Developer track:** I am the main developer of the `mml` Python package, a soon to be open sourced library which aims to provide an easy and scalable way of deep learning on multiple image tasks. It incorporates multiple common machine learning tools, such as [pytorch](https://github.com/pytorch/pytorch), [pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning), [hydra](https://github.com/facebookresearch/hydra), [timm](https://github.com/huggingface/pytorch-image-models), [segmentation-models-pytorch](https://github.com/qubvel/segmentation_models.pytorch), [albumentations](https://github.com/albumentations-team/albumentations), [kornia](https://github.com/kornia/kornia) and many more.
+**Developer track:** I am the main developer of the [`mml` Python package](https://github.com/IMSY-DKFZ/mml), an open source library which aims to provide an easy and scalable way of deep learning on multiple image tasks. It incorporates multiple common machine learning tools, such as [pytorch](https://github.com/pytorch/pytorch), [pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning), [hydra](https://github.com/facebookresearch/hydra), [timm](https://github.com/huggingface/pytorch-image-models), [segmentation-models-pytorch](https://github.com/qubvel/segmentation_models.pytorch), [albumentations](https://github.com/albumentations-team/albumentations), [kornia](https://github.com/kornia/kornia) and many more.
 
 
 <!--
