@@ -1,7 +1,7 @@
 ### Hi there 👋 ![Visit counter](https://komarev.com/ghpvc/?username=godaup&color=blue)
 
 
-I have been researching on Machine Learning and Data Science for several years. I have done my M. Sc. in mathematics, specifically theoretic computer science and algorithmic complexity. Currently I pursue a Ph.D. in Medical Imaging at the German Cancer Reseach Center.
+I have been researching on Machine Learning and Data Science for several years. I have done my M. Sc. in mathematics, specifically theoretic computer science and algorithmic complexity. I did a Ph.D. in Medical Imaging at the German Cancer Reseach Center, where I currently reside as a postdoctoral researcher. 
 
 **Academic track:** I have [published](https://scholar.google.com/citations?user=VRcPeykAAAAJ) several journal articles and papers on national and international conferences such as MICCAI, BVM, CVPR and NeurIPS workshop. I have won multiple [awards](https://www.dkfz.de/en/imsy/awards/index.html) as a reviewer as well as participant of biomedical challenges and hackathons. I lead the subgroup of [Intelligent Systems for Surgery and Endoscopy (ISSE)](https://www.dkfz.de/en/imsy/team/index.html).
 
